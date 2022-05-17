@@ -35,6 +35,7 @@ name,ring,quadrant,isNew,description
 "JQuery",hold,"Libraries",false,"Old-school coding"
 "vuex",adopt,"Libraries",false,"State management"
 "axios",hold,"Libraries",false,"AJAX library helper, should be replaced with built-in window.fetch function or use polyfill for it"
+"axios-mock-adapter",adopt,"Libraries",false,"Axios adapter for mock requests"
 "Blue DLS Vue 2",adopt,"Libraries",false,"Standard Blibli Design Language"
 "Blue DLS Vue 3",assess,"Libraries",new,"Standard Blibli Design Language for Vue 3"
 "Blue DLS Library - Single Component approach",assess,"Libraries",false,"DLS library published as individual components"
